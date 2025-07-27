@@ -1,12 +1,10 @@
 import React from 'react';
-import { 
-  RevenueSummary, 
-  UserMetrics, 
-  OrderAnalytics, 
-  TransactionTrends,
-  PerformanceCards,
-  YearlyComparison
-} from '@/components/dashboard';
+import RevenueSummary from '@/components/dashboard/RevenueSummary';
+import OrderAnalytics from '@/components/dashboard/OrderAnalytics';
+import TransactionTrends from '@/components/dashboard/TransactionTrends';
+import PerformanceCards from '@/components/dashboard/PerformanceCards';
+import YearlyComparison from '@/components/dashboard/YearlyComparison';
+import UserMetrics from '@/components/dashboard/UserMetrics';
 
 const DashboardPage = () => {
   return (
