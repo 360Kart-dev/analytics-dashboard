@@ -11,7 +11,7 @@ const DashboardPage = () => {
     <div className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-gray-900">360Kart Analytics Dashboard</h1>
+          <h1 className="text-2xl font-bold text-gray-900">Analytics Dashboard</h1>
           <div className="flex items-center space-x-4">
             <div className="relative">
               <select className="appearance-none bg-gray-100 border border-gray-300 rounded-md py-2 pl-3 pr-8 text-sm font-medium text-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500">
