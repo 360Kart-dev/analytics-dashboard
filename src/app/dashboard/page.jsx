@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import RevenueSummary from '@/components/dashboard/RevenueSummary';
 import OrderAnalytics from '@/components/dashboard/OrderAnalytics';
 import TransactionTrends from '@/components/dashboard/TransactionTrends';
@@ -11,7 +12,18 @@ const DashboardPage = () => {
     <div className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-gray-900">Analytics Dashboard</h1>
+          <div className="flex items-center space-x-3">
+            <div className="flex-shrink-0 h-8 w-8">
+              <Image
+                src="/images/logo.png" 
+                alt="360Kart Logo"
+                width={32}
+                height={32}
+                className="rounded-full"
+              />
+            </div>
+            <h1 className="text-2xl font-bold text-gray-900">Analytics Dashboard</h1>
+          </div>
           <div className="flex items-center space-x-4">
             <div className="relative">
               <select className="appearance-none bg-gray-100 border border-gray-300 rounded-md py-2 pl-3 pr-8 text-sm font-medium text-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500">
