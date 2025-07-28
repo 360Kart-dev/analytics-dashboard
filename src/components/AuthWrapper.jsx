@@ -1,24 +1,29 @@
 'use client';
 
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
 export default function AuthWrapper({ children }) {
   const router = useRouter();
+  const pathname = usePathname();
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   useEffect(() => {
-    // Check authentication status on component mount
+    if (pathname === '/login') {
+      setIsAuthenticated(true);
+      return;
+    }
+
     const authStatus = localStorage.getItem('isAuthenticated');
     if (!authStatus) {
       router.push('/login');
     } else {
       setIsAuthenticated(true);
     }
-  }, [router]);
+  }, [router, pathname]);
 
   if (!isAuthenticated) {
-    return null; // Or a loading spinner
+    return null;
   }
 
   return children;
