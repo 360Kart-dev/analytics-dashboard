@@ -306,12 +306,57 @@ export const sellers = [
     joined: '2024-09-18'
   },
   {
-    id: 33,
+    id: 35,
     name: 'Poku Kyei',
     shop: 'Boutique',
     location: 'Kumasi',
     totalSales: '¢810',
     products: 11,
+    joined: '2024-09-18'
+  },
+  {
+    id: 36,
+    name: 'Amankwah Patricia',
+    shop: 'Skincare Paradise',
+    location: 'Kumasi',
+    totalSales: '¢1,210',
+    products: 11,
+    joined: '2024-09-18'
+  },
+  {
+    id: 37,
+    name: 'Tandoh Beatrice',
+    shop: 'Canned Foods',
+    location: 'Kumasi',
+    totalSales: '¢410',
+    products: 9,
+    joined: '2024-09-18'
+  },
+  {
+    id: 38,
+    name: 'Akosua Frimpomaa',
+    shop: 'Sota Stores',
+    location: 'Kumasi',
+    totalSales: '¢710',
+    products: 9,
+    joined: '2024-09-18'
+  },
+  {
+    id: 39,
+    name: 'Tessa Afriyie',
+    shop: 'His Goodness Shop',
+    location: 'Kumasi',
+    totalSales: '¢210',
+    products: 5,
+    joined: '2024-09-18'
+  },
+  {
+    id: 40,
+    name: 'Ama Okai',
+    shop: 'Afrique',
+    location: 'Kumasi',
+    totalSales: '¢70',
+    products: 1,
     joined: '2024-09-18'
   },
 ];
