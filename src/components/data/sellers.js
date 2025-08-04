@@ -6,7 +6,7 @@ export const sellers = [
     location: 'Accra',
     totalSales: '¢12,450',
     products: 24,
-    joined: '2023-03-15'
+    joined: '2025-01-15'
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const sellers = [
     location: 'Kumasi',
     totalSales: '¢8,720',
     products: 18,
-    joined: '2023-05-22'
+    joined: '2025-05-22'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const sellers = [
     location: 'Takoradi',
     totalSales: '¢15,300',
     products: 32,
-    joined: '2023-02-10'
+    joined: '2025-02-10'
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const sellers = [
     location: 'Cape Coast',
     totalSales: '¢6,540',
     products: 15,
-    joined: '2023-07-05'
+    joined: '2025-07-05'
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const sellers = [
     location: 'Tamale',
     totalSales: '¢9,810',
     products: 21,
-    joined: '2023-04-18'
+    joined: '2025-04-18'
   },
   {
     id: 6,
@@ -51,61 +51,61 @@ export const sellers = [
     location: 'Tamale',
     totalSales: '¢9,810',
     products: 21,
-    joined: '2023-04-18'
+    joined: '2024-04-18'
   },
   {
     id: 7,
     name: 'Darrly Asiamah',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
-    totalSales: '¢9,810',
-    products: 21,
-    joined: '2023-04-18'
+    shop: 'Textiles',
+    location: 'Bono',
+    totalSales: '¢3,810',
+    products: 6,
+    joined: '2025-02-24'
   },
   {
     id: 8,
     name: 'Kofi Poku',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
-    totalSales: '¢9,810',
+    shop: 'Bambi Jewellry',
+    location: 'Accra',
+    totalSales: '¢950',
     products: 21,
-    joined: '2023-04-18'
+    joined: '2024-12-18'
   },
   {
     id: 9,
     name: 'Lydia Amankwah',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
-    totalSales: '¢9,810',
-    products: 21,
-    joined: '2023-04-18'
+    shop: 'Glorious Jesus Necklaces',
+    location: 'Kumasi',
+    totalSales: '¢1,610',
+    products: 27,
+    joined: '2024-01-18'
   },
   {
     id: 10,
     name: 'Fred Boakye',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
-    totalSales: '¢9,810',
-    products: 21,
-    joined: '2023-04-18'
+    shop: 'Ishop',
+    location: 'Accra',
+    totalSales: '¢11,810',
+    products: 5,
+    joined: '2023-11-19'
   },
   {
     id: 11,
     name: 'Bonsu Fiifi',
-    shop: 'Tamale Agro Products',
+    shop: 'Tamson Products',
     location: 'Tamale',
-    totalSales: '¢9,810',
-    products: 21,
-    joined: '2023-04-18'
+    totalSales: '¢250',
+    products: 2,
+    joined: '2024-01-18'
   },
   {
     id: 12,
     name: 'Precious Afriyie',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
-    totalSales: '¢9,810',
-    products: 21,
-    joined: '2023-04-18'
+    shop: 'Presh Goods',
+    location: 'Kumasi',
+    totalSales: '¢510',
+    products: 4,
+    joined: '2025-01-18'
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const sellers = [
     location: 'Tamale',
     totalSales: '¢9,810',
     products: 21,
-    joined: '2023-04-18'
+    joined: '2025-08-18'
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const sellers = [
     location: 'Accra',
     totalSales: '¢9,810',
     products: 21,
-    joined: '2023-04-18'
+    joined: '2024-04-01'
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const sellers = [
     location: 'Kumasi',
     totalSales: '¢9,810',
     products: 21,
-    joined: '2023-04-18'
+    joined: '2025-04-17'
   },
   {
     id: 16,
