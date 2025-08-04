@@ -119,8 +119,8 @@ export const sellers = [
   {
     id: 14,
     name: 'Dankwah Kelvin',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
+    shop: 'Perfume god',
+    location: 'Accra',
     totalSales: '¢9,810',
     products: 21,
     joined: '2023-04-18'
@@ -128,10 +128,172 @@ export const sellers = [
   {
     id: 15,
     name: 'Akosua Kyerewaa',
+    shop: 'Lavish Skincare',
+    location: 'Kumasi',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 16,
+    name: 'Ama Baafi',
+    shop: 'Tech Agro Products',
+    location: 'Kumasi',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 17,
+    name: 'Akosua Kyerewaa',
+    shop: 'Food Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 18,
+    name: 'Akosua Kyerewaa',
+    shop: 'Skin Haven',
+    location: 'Sunyani',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 19,
+    name: 'Akosua Kyerewaa',
     shop: 'Tamale Agro Products',
     location: 'Tamale',
     totalSales: '¢9,810',
     products: 21,
     joined: '2023-04-18'
+  },
+  {
+    id: 20,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 21,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 22,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 23,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 24,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 25,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 26,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 27,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 28,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-18'
+  },
+  {
+    id: 29,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2023-04-29'
+  },
+  {
+    id: 30,
+    name: 'Akosua Kyerewaa',
+    shop: 'This Way Boutique',
+    location: 'Accra',
+    totalSales: '¢1,810',
+    products: 35,
+    joined: '2024-09-28'
+  },
+  {
+    id: 31,
+    name: 'Akosua Kyerewaa',
+    shop: 'Tamale Agro Products',
+    location: 'Tamale',
+    totalSales: '¢9,810',
+    products: 21,
+    joined: '2024-12-21'
+  },
+  {
+    id: 32,
+    name: 'AStephen Kyere',
+    shop: 'Agric Products',
+    location: 'Tamale',
+    totalSales: '¢2,810',
+    products: 7,
+    joined: '2024-04-18'
+  },
+  {
+    id: 33,
+    name: 'Poku Adusei',
+    shop: 'Phone Boutique',
+    location: 'Bono',
+    totalSales: '¢16,810',
+    products: 21,
+    joined: '2023-09-18'
   },
 ];
