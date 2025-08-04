@@ -2,54 +2,6 @@
 
 import React from 'react';
 
-const sellers = [
-  {
-    id: 1,
-    name: 'Kwame Agyapong',
-    shop: 'Accra Fashion Hub',
-    location: 'Accra',
-    totalSales: '¢12,450',
-    products: 24,
-    joined: '2023-03-15'
-  },
-  {
-    id: 2,
-    name: 'Ama Serwaa',
-    shop: 'Kumasi Kitchenwares',
-    location: 'Kumasi',
-    totalSales: '¢8,720',
-    products: 18,
-    joined: '2023-05-22'
-  },
-  {
-    id: 3,
-    name: 'Yaw Boateng',
-    shop: 'Takoradi Electronics',
-    location: 'Takoradi',
-    totalSales: '¢15,300',
-    products: 32,
-    joined: '2023-02-10'
-  },
-  {
-    id: 4,
-    name: 'Esi Mensah',
-    shop: 'Cape Coast Crafts',
-    location: 'Cape Coast',
-    totalSales: '¢6,540',
-    products: 15,
-    joined: '2023-07-05'
-  },
-  {
-    id: 5,
-    name: 'Kofi Ansah',
-    shop: 'Tamale Agro Products',
-    location: 'Tamale',
-    totalSales: '¢9,810',
-    products: 21,
-    joined: '2023-04-18'
-  }
-];
-
 const SellersPage = () => {
   return (
     <div className="flex-1 overflow-auto">
