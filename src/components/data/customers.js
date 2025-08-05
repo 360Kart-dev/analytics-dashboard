@@ -2,7 +2,7 @@ export const customers = [
   {
     id: 1,
     name: 'Nana Yaa Asantewaa',
-    email: 'nana.yaa@gmail.com',
+    email: 'nana.yaa37@gmail.com',
     location: 'Kumasi',
     orders: 8,
     totalSpent: '¢1,250',
@@ -11,7 +11,7 @@ export const customers = [
   {
     id: 2,
     name: 'Kwabena Osei',
-    email: 'kwabena.osei@gmail.com',
+    email: 'kwabenaosei3@gmail.com',
     location: 'Accra',
     orders: 12,
     totalSpent: '¢2,340',
@@ -20,7 +20,7 @@ export const customers = [
   {
     id: 3,
     name: 'Akosua Mensah',
-    email: 'akosua.m@gmail.com',
+    email: 'akosuam@gmail.com',
     location: 'Tema',
     orders: 5,
     totalSpent: '¢890',
@@ -29,7 +29,7 @@ export const customers = [
   {
     id: 4,
     name: 'Yaw Boateng',
-    email: 'yaw.b@gmail.com',
+    email: 'yaw.b383@gmail.com',
     location: 'Takoradi',
     orders: 3,
     totalSpent: '¢540',
@@ -38,7 +38,7 @@ export const customers = [
   {
     id: 5,
     name: 'Adwoa Safo',
-    email: 'adwoa.s@gmail.com',
+    email: 'adwoa.s11@gmail.com',
     location: 'Cape Coast',
     orders: 7,
     totalSpent: '¢1,120',
@@ -56,7 +56,7 @@ export const customers = [
   {
     id: 7,
     name: 'Esi Nyarko',
-    email: 'esi.nyarko@outlook.com',
+    email: 'esiyarko@outlook.com',
     location: 'Sunyani',
     orders: 4,
     totalSpent: '¢720',
@@ -74,7 +74,7 @@ export const customers = [
   {
     id: 9,
     name: 'Ama Serwaa',
-    email: 'serwaa.ama@hotmail.com',
+    email: 'serwaaama92@hotmail.com',
     location: 'Obuasi',
     orders: 11,
     totalSpent: '¢2,150',
@@ -101,7 +101,7 @@ export const customers = [
   {
     id: 12,
     name: 'Afia Konadu',
-    email: 'afia.k@gmail.com',
+    email: 'afia.k4@gmail.com',
     location: 'Kumasi',
     orders: 7,
     totalSpent: '¢1,100',
@@ -110,7 +110,7 @@ export const customers = [
   {
     id: 13,
     name: 'Kwesi Andoh',
-    email: 'k.andoh@outlook.com',
+    email: 'kandoh9@outlook.com',
     location: 'Tema',
     orders: 5,
     totalSpent: '¢850',
@@ -137,7 +137,7 @@ export const customers = [
   {
     id: 16,
     name: 'Akua Dufie',
-    email: 'akua.dufie@gmail.com',
+    email: 'akuadufie@gmail.com',
     location: 'Kumasi',
     orders: 10,
     totalSpent: '¢1,800',
@@ -146,7 +146,7 @@ export const customers = [
   {
     id: 17,
     name: 'Osei Kuffour',
-    email: 'osei.k@hotmail.com',
+    email: 'osei.k1@hotmail.com',
     location: 'Accra',
     orders: 6,
     totalSpent: '¢950',
@@ -155,7 +155,7 @@ export const customers = [
   {
     id: 18,
     name: 'Abena Serwaa',
-    email: 'abena.s@gmail.com',
+    email: 'abenas@gmail.com',
     location: 'Tamale',
     orders: 3,
     totalSpent: '¢520',
@@ -164,7 +164,7 @@ export const customers = [
   {
     id: 19,
     name: 'Kweku Ananse',
-    email: 'k.ananse@outlook.com',
+    email: 'kananse@outlook.com',
     location: 'Sunyani',
     orders: 7,
     totalSpent: '¢1,150',
@@ -209,7 +209,7 @@ export const customers = [
   {
     id: 24,
     name: 'Adjoa Darko',
-    email: 'adjoa.darko@yahoo.com',
+    email: 'adjoa.darko77@yahoo.com',
     location: 'Kumasi',
     orders: 6,
     totalSpent: '¢1,020',
@@ -218,7 +218,7 @@ export const customers = [
   {
     id: 25,
     name: 'Nii Ayi',
-    email: 'nii.ayi@outlook.com',
+    email: 'nii.ayi111@gmail.com',
     location: 'Tema',
     orders: 8,
     totalSpent: '¢1,350',
@@ -227,7 +227,7 @@ export const customers = [
   {
     id: 26,
     name: 'Efua Badu',
-    email: 'efua.badu@gmail.com',
+    email: 'efua.badu99@gmail.com',
     location: 'Cape Coast',
     orders: 5,
     totalSpent: '¢880',
@@ -236,7 +236,7 @@ export const customers = [
   {
     id: 27,
     name: 'Kofi Gyamfi',
-    email: 'k.gyamfi@yahoo.com',
+    email: 'k.gyamfi2@yahoo.com',
     location: 'Takoradi',
     orders: 7,
     totalSpent: '¢1,120',
@@ -272,7 +272,7 @@ export const customers = [
   {
     id: 31,
     name: 'Yaw Ofori',
-    email: 'yaw.ofori@yahoo.com',
+    email: 'yaw.ofori22@yahoo.com',
     location: 'Sunyani',
     orders: 6,
     totalSpent: '¢990',
@@ -281,7 +281,7 @@ export const customers = [
   {
     id: 32,
     name: 'Abena Kumi',
-    email: 'abena.kumi@gmail.com',
+    email: 'abena.kumi1@gmail.com',
     location: 'Koforidua',
     orders: 5,
     totalSpent: '¢870',
@@ -317,7 +317,7 @@ export const customers = [
   {
     id: 36,
     name: 'Ama Asare',
-    email: 'ama.asare@outlook.com',
+    email: 'ama.asare97@outlook.com',
     location: 'Kumasi',
     orders: 7,
     totalSpent: '¢1,180',
@@ -344,7 +344,7 @@ export const customers = [
   {
     id: 39,
     name: 'Kofi Adjei',
-    email: 'kofi.adjei@hotmail.com',
+    email: 'kofiadjei4@hotmail.com',
     location: 'Takoradi',
     orders: 5,
     totalSpent: '¢840',
@@ -353,7 +353,7 @@ export const customers = [
   {
     id: 40,
     name: 'Akua Agyeman',
-    email: 'akua.agyeman738@yahoo.com',
+    email: 'akuaagyeman738@yahoo.com',
     location: 'Kumasi',
     orders: 12,
     totalSpent: '¢2,350',
